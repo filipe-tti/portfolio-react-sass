@@ -18,7 +18,7 @@ const informationContainer = () => {
         
         <div>
             <h3>E-mail</h3>
-            <p>filipe18tti@gmail.com    </p>
+            <p>filipe18tti@gmail.com</p>
         </div>
     </div>
 

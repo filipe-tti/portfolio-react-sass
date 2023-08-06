@@ -1,8 +1,9 @@
 import SocialNetworks from './SocialNetworks'
-import Avatar from '../img/perfil desktop.jpg'
-import '../styles/components/sidebar.sass'
 import InformationContainer from './informationContainer'
 
+import Avatar from '../img/perfil desktop.jpg'
+
+import '../styles/components/sidebar.sass'
 
 const Sidebar = () => {
   return <aside id="sidebar">

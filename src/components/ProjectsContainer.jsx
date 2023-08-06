@@ -2,8 +2,8 @@
 const ProjectsContainer = () => {
   return <section className="projects-container">
     <h2>Projetos</h2>
-    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Deleniti officiis aliquid quas, ipsam ab culpa. Recusandae nostrum at nulla soluta tempore harum vitae esse neque totam. Iusto deleniti nulla rerum.</p>
-    <a href="#" className="btn">
+    <p>Abaixo estão disponíveis alguns projetos pessoais que desenvolvi para praticar minhas skills.</p>
+    <a href="https://github.com/filipe-tti?tab=repositories" className="btn">
         Ver Projetos
     </a>
   </section>
